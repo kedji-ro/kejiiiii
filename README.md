@@ -23,8 +23,8 @@
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 Hi! I'm Keji. I work as a full-time software developer by day. Sometimes, I take freelance software development side jobs which I do at night. 
-<br> I am 24 years old and been in the field for almost 2 and a half years now (if freelance work is counted, 1 and a half if industrial). 
-<br> I enjoy coding. Looking at my computer screen while racking my brains out of ideas and ways to create logic or solve problems keeps my blood pumping. I also find joy in learning new things.
+<br><br> I am 24 years old and been in the field for almost 2 and a half years now (if freelance work is counted, 1 and a half if industrial). 
+<br><br> I enjoy coding. Looking at my computer screen while racking my brains out of ideas and ways to create logic or solve problems keeps my blood pumping. I also find joy in learning new things.
 
 Besides coding I have other things and hobbies I like to do too, like:
 * Arts/Multimedia Arts
