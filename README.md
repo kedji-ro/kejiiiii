@@ -11,7 +11,7 @@
   <h3 align="center">Hi, I'm Keji!</h3>
 
   <p align="center">
-    A software developer by day, still a software developer by night.
+    A software developer by day, still a software developer by night (sometimes).
     <br />
     <a href="https://www.linkedin.com/in/kjaribas/"><strong>LinkedIn »</strong></a>
   </p>
