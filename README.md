@@ -8,7 +8,7 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Hi, I'm Keji!</h3>
+  <h3 align="center">Hi, I'm Kristine!</h3>
 
   <p align="center">
     A software developer by day, still a software developer by night (sometimes).
