@@ -39,26 +39,22 @@ Besides coding I have other things and hobbies I like to do too, like:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Programming Languages and Technologies
 
 Listed here are the programming languages and technologies I currently using and have used in the past:
 
-#### Main/Current
-* C#
-* T-SQL
-* ASP.Net
-* Crystal Report
+#### Programming Languages
+* C#.NET, VB.NET, Java, JavaScript, PHP, SQL
 
-#### I use for my side jobs
-* PHP
-* JavaScript
-* CodeIgniter
+#### Tools and Technologies
+* ASP.NET, jQuery, AJAX, SignalR, API, Entity Framework, SQL Server, MySQL,
+MongoDB, Crystal Reports, DevExpress, Infragistics
 
-#### I used before
-* VB.Net
-* Java
+#### Project Management Tools
+* Trello, Axosoft, Asana, GitHub Projects
+
+#### Version Control
+* GitHub, Microsoft TFS, Azure Repos, BitBucket
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
@@ -67,11 +63,9 @@ Listed here are the programming languages and technologies I currently using and
 
 Want to get acquainted? Reach me through these channels:
 
-Email: kejaribas@gmail.com <br>
-Instagram : https://www.instagram.com/kedji.ro/
+Email: kjaribas@gmail.com <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
